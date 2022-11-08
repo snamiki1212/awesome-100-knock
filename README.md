@@ -16,3 +16,7 @@
 - [Python実践データ加工/可視化 100本ノック](https://www.shuwasystem.co.jp/book/b588585.html)
 - [Python実践機械学習システム100本ノック](https://www.shuwasystem.co.jp/book/9784798063416.html)
 - [Python実践AIモデル構築 100本ノック](https://www.shuwasystem.co.jp/book/9784798064406.html)
+
+## Ideas
+
+- [#100DaysOfX Challenges](https://www.100daysofx.com/)
