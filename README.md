@@ -8,6 +8,8 @@
 - [GitHub - tam17aki/speech_process_exercise: WIP](https://github.com/tam17aki/speech_process_exercise)
 - [GitHub - kunishou/Pandas_100_knocks: This is a content file for "Pandas 100 Knocks".](https://github.com/kunishou/Pandas_100_knocks)
 - [GitHub - vopani/datatableton: 100 exercises to learn Python Datatable](https://github.com/vopani/datatableton)
+- [GitHub - ir100/ir100: 情報検索100本ノック](https://github.com/ir100/ir100)
+
 
 ## Books
 
